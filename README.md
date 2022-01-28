@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen>
 <h1 align="center">Hi 👋, I'm KASALA UMASANKAR</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India 👨🏻‍💻</h3>
 
 
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/kasala_shankar" target="blank"><img src="https://img.shields.io/twitter/follow/kasala_shankar?logo=twitter&style=for-the-badge" alt="kasala_shankar" /></a> </p>
 
-- 🌱 I’m currently learning **React With TypeScript**
-- 👨‍💻 All of my projects are available at [https://demoportfoliosite.netlify.app/](https://demoportfoliosite.netlify.app/)
-- 💬 Ask me about **JavaScript**
-- 📫 How to reach me **kasala.umasankar@gmail.com**
-- ⚡ Fun fact **unlike known, software Developers mainly are self-taught programmers despite having earning a bachelor's of Degree in software Developers.**
+- I’m currently learning **⚛️React With TypeScript**
+- All of my projects are available at 🌐 [https://demoportfoliosite.netlify.app/](https://demoportfoliosite.netlify.app/)
+- Ask me about **JavaScript**
+- How to reach me 📧 **kasala.umasankar@gmail.com**
+- Fun fact **unlike known, software Developers mainly are self-taught programmers despite having earning a bachelor's of Degree in software Developers. 😃**
 
 <h3 align="left">Connect with me:</h3>
 
