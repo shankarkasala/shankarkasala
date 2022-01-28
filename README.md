@@ -19,17 +19,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/kasala_shankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasala_shankar" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/kasala umasankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasala umasankar" height="30" width="40" /></a>
-
-<a href="https://fb.com/kasala.umashankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasala.umashankar" height="30" width="40" /></a>
-
-<a href="https://instagram.com/shankar_kasala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shankar_kasala" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/ug dreams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ug dreams" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/kasala_umasankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kasala_umasankar" height="30" width="40" /></a>
+<a href="https://twitter.com/kasala_shankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasala_shankar" height="30" width="40" /></a> <a href="https://linkedin.com/in/kasala umasankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasala umasankar" height="30" width="40" /></a>  <a href="https://fb.com/kasala.umashankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasala.umashankar" height="30" width="40" /></a>  <a href="https://instagram.com/shankar_kasala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shankar_kasala" height="30" width="40" /></a>  <a href="https://www.youtube.com/c/ug dreams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ug dreams" height="30" width="40" /></a>  <a href="https://www.leetcode.com/kasala_umasankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kasala_umasankar" height="30" width="40" /></a>
 
 </p>
 
