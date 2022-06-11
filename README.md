@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kasala_shankar" target="blank"><img src="https://img.shields.io/twitter/follow/kasala_shankar?logo=twitter&style=for-the-badge" alt="kasala_shankar" /></a> </p>
 
-- I’m currently learning **⚛️React With TypeScript**
+- I’m currently Working on **⚛️React With JavaScript**
 - All of my projects are available at 🌐 [https://kasalaumasankar-portfolio.netlify.app/#home](https://kasalaumasankar-portfolio.netlify.app/#home)
 - Ask me about **JavaScript**
 - How to reach me 📧 **kasala.umasankar@gmail.com**
